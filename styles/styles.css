@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+select{
+    height: auto;
+    padding: 10px;
+    font-size: 1.1em;
+}
+
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+label{
+    margin-bottom: 8px;
+    font-size: 1.2em;
+}
